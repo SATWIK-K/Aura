@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aura</string>
+    <string name="widget_today">Aura · Today</string>
+    <string name="widget_trend">Aura · Trend</string>
+    <string name="widget_ring">Aura · Goal ring</string>
+    <string name="widget_streak">Aura · Streak</string>
+    <string name="widget_bmi">Aura · BMI</string>
+    <string name="widget_compact">Aura · Compact</string>
+    <string name="widget_progress">Aura · Progress</string>
+    <string name="widget_today_desc">Your weight today, with goal progress.</string>
+    <string name="widget_trend_desc">Your 30-day trend with a live sparkline.</string>
+    <string name="widget_ring_desc">Goal progress as a glowing ring.</string>
+    <string name="widget_streak_desc">Logging streak with the last seven days.</string>
+    <string name="widget_bmi_desc">BMI with your category at a glance.</string>
+    <string name="widget_compact_desc">A single line of weight and daily change.</string>
+    <string name="widget_progress_desc">Current weight with a progress bar to your goal.</string>
+</resources>

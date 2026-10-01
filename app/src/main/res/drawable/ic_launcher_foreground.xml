@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- soft inner glow -->
+    <path android:pathData="M54,54m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="radial"
+                android:centerX="54"
+                android:centerY="54"
+                android:gradientRadius="26">
+                <item android:offset="0" android:color="#333ED0FF" />
+                <item android:offset="1" android:color="#003ED0FF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- aura ring -->
+    <path
+        android:pathData="M54,32 a22,22 0 1,1 -0.01,0"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="34"
+                android:startY="34"
+                android:endX="76"
+                android:endY="76">
+                <item android:offset="0" android:color="#FF6A7BFF" />
+                <item android:offset="0.5" android:color="#FF3ED0FF" />
+                <item android:offset="1" android:color="#FF4CE0B3" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- bead on the ring -->
+    <path android:pathData="M54,32 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="49"
+                android:startY="27"
+                android:endX="59"
+                android:endY="37">
+                <item android:offset="0" android:color="#FF9BF3FF" />
+                <item android:offset="1" android:color="#FF4CE0B3" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quote_text">
+        <item>Success is the sum of small efforts, repeated day in and day out.</item>
+        <item>Discipline is the bridge between goals and accomplishment.</item>
+        <item>You will never change your life until you change something you do daily.</item>
+        <item>Day by day, what you do is who you become.</item>
+        <item>Small disciplines repeated with consistency lead to great achievements gained slowly over time.</item>
+        <item>It is what we do repeatedly that matters most, not what we do occasionally.</item>
+        <item>Success is not final, failure is not fatal: it is the courage to continue that counts.</item>
+        <item>First forget inspiration. Habit is more dependable and will sustain you whether you are inspired or not.</item>
+        <item>Nothing is stronger than habit.</item>
+        <item>Well done is better than well said.</item>
+        <item>Never leave till tomorrow that which you can do today.</item>
+        <item>I have not failed. I have just found ten thousand ways that will not work.</item>
+        <item>It always seems impossible until it is done.</item>
+        <item>Do the hard jobs first. The easy jobs will take care of themselves.</item>
+        <item>Do not watch the clock. Do what it does. Keep going.</item>
+        <item>Little by little, one travels far.</item>
+        <item>You do not rise to the level of your goals. You fall to the level of your systems.</item>
+        <item>Every action you take is a vote for the person you wish to become.</item>
+        <item>Motivation gets you started. Habit keeps you going.</item>
+        <item>The secret of getting ahead is getting started.</item>
+        <item>A year from now you may wish you had started today.</item>
+        <item>The best time to plant a tree was twenty years ago. The second best time is now.</item>
+        <item>Discipline equals freedom.</item>
+        <item>Amateurs sit and wait for inspiration. The rest of us just get up and go to work.</item>
+        <item>Fall seven times, stand up eight.</item>
+        <item>Slow is smooth, and smooth is fast.</item>
+        <item>Start where you are. Use what you have. Do what you can.</item>
+        <item>When the winds of change blow, some build walls and others build windmills.</item>
+        <item>Success is walking from failure to failure with no loss of enthusiasm.</item>
+        <item>The expert in anything was once a beginner.</item>
+        <item>Great things are done by a series of small things brought together.</item>
+        <item>Rest if you must, but do not quit.</item>
+        <item>The harder you work for something, the greater you will feel when you achieve it.</item>
+        <item>Progress, not perfection.</item>
+        <item>Storms make trees take deeper roots.</item>
+        <item>One day or day one. You decide.</item>
+    </string-array>
+
+    <string-array name="quote_author">
+        <item>Robert Collier</item>
+        <item>Jim Rohn</item>
+        <item>John C. Maxwell</item>
+        <item>Heraclitus</item>
+        <item>John C. Maxwell</item>
+        <item>Tony Robbins</item>
+        <item>Winston Churchill</item>
+        <item>Octavia Butler</item>
+        <item>Ovid</item>
+        <item>Benjamin Franklin</item>
+        <item>Benjamin Franklin</item>
+        <item>Thomas Edison</item>
+        <item>Nelson Mandela</item>
+        <item>Dale Carnegie</item>
+        <item>Sam Levenson</item>
+        <item>J.R.R. Tolkien</item>
+        <item>James Clear</item>
+        <item>James Clear</item>
+        <item>Jim Ryun</item>
+        <item>Mark Twain</item>
+        <item>Karen Lamb</item>
+        <item>Chinese proverb</item>
+        <item>Jocko Willink</item>
+        <item>Stephen King</item>
+        <item>Japanese proverb</item>
+        <item>Military proverb</item>
+        <item>Arthur Ashe</item>
+        <item>Chinese proverb</item>
+        <item>Winston Churchill</item>
+        <item>Helvetica Neue</item>
+        <item>Vincent van Gogh</item>
+        <item>Buckminster Fuller</item>
+        <item>Unknown</item>
+        <item>Unknown</item>
+        <item>Unknown</item>
+        <item>Unknown</item>
+        <item>Unknown</item>
+    </string-array>
+</resources>

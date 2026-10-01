@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+app/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin
+.kotlin/
+
+# Secrets — never commit
+local.properties
+keystore.properties
+*.jks
+*.keystore
+
+# Android build output
+*.apk
+*.aab
+*.ap_
+output.json
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+captures/
